@@ -2,9 +2,9 @@
 
 ### DATE: 14.09.2024
 
-# AIM
+# AIM:
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
-# ALGORITHM
+# ALGORITHM:
 1.	Start the program.
 2.	Write a program in the vi editor and save it with .l extension.
 3.	In the lex program, write the translation rules for the operators =,+,-,*,/ and for the identifier.
@@ -69,5 +69,5 @@ yyparse();
 
 ![image](https://github.com/user-attachments/assets/d636b1a8-9fb7-4470-8885-710ecea76a01)
 
-# RESULT
+# RESULT:
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
